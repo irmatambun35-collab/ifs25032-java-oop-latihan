@@ -1,0 +1,99 @@
+Daftar Barang:
+- Data barang belum tersedia!
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [!] Pilihan tidak dimengerti.
+
+Daftar Barang:
+- Data barang belum tersedia!
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Barang]
+Nama (x Jika Batal) : Jumlah Stok : [!] Jumlah stok tidak valid!
+
+Daftar Barang:
+- Data barang belum tersedia!
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Barang]
+Nama (x Jika Batal) : Jumlah Stok : Kategori : Berhasil menambah barang: 1 | Mouse | 10 | Elektronik
+
+Daftar Barang:
+1 | Mouse | 10 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mengubah Stok Barang]
+ID Barang yang diubah (x Jika Batal) : [!] ID tidak valid!
+
+Daftar Barang:
+1 | Mouse | 10 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mengubah Stok Barang]
+ID Barang yang diubah (x Jika Batal) : Stok Baru (Kosongkan jika tidak ingin mengubah) : Berhasil mengubah stok barang.
+
+Daftar Barang:
+1 | Mouse | 25 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menghapus Barang]
+[ID Barang] yang dihapus (x Jika Batal) : [!] Gagal menghapus barang dengan ID: 99.
+
+Daftar Barang:
+1 | Mouse | 25 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mengurutkan Barang]
+Pilihan Pengurutan:
+1. Nama (A-Z)
+2. Nama (Z-A)
+3. Jumlah (Terkecil)
+4. Jumlah (Terbesar)
+x. Batal
+Pilih : [!] Pilihan tidak valid!
+
+Daftar Barang:
+1 | Mouse | 25 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 

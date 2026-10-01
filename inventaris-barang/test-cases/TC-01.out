@@ -1,0 +1,35 @@
+Daftar Barang:
+- Data barang belum tersedia!
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Barang]
+Nama (x Jika Batal) : Jumlah Stok : Kategori : Berhasil menambah barang: 1 | Pensil | 50 | Alat Tulis
+
+Daftar Barang:
+1 | Pensil | 50 | Alat Tulis
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Barang]
+Nama (x Jika Batal) : Jumlah Stok : Kategori : Berhasil menambah barang: 2 | Buku | 20 | Alat Tulis
+
+Daftar Barang:
+1 | Pensil | 50 | Alat Tulis
+2 | Buku | 20 | Alat Tulis
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 

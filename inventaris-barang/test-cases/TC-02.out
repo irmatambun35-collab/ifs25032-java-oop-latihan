@@ -1,0 +1,69 @@
+Daftar Barang:
+- Data barang belum tersedia!
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Barang]
+Nama (x Jika Batal) : Jumlah Stok : Kategori : Berhasil menambah barang: 1 | Mouse | 10 | Elektronik
+
+Daftar Barang:
+1 | Mouse | 10 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Barang]
+Nama (x Jika Batal) : Jumlah Stok : Kategori : Berhasil menambah barang: 2 | Keyboard | 5 | Elektronik
+
+Daftar Barang:
+1 | Mouse | 10 | Elektronik
+2 | Keyboard | 5 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mengubah Stok Barang]
+ID Barang yang diubah (x Jika Batal) : Stok Baru (Kosongkan jika tidak ingin mengubah) : Berhasil mengubah stok barang.
+
+Daftar Barang:
+1 | Mouse | 25 | Elektronik
+2 | Keyboard | 5 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mengurutkan Barang]
+Pilihan Pengurutan:
+1. Nama (A-Z)
+2. Nama (Z-A)
+3. Jumlah (Terkecil)
+4. Jumlah (Terbesar)
+x. Batal
+Pilih : Daftar Barang (Terurut):
+2 | Keyboard | 5 | Elektronik
+1 | Mouse | 25 | Elektronik
+
+Daftar Barang:
+1 | Mouse | 25 | Elektronik
+2 | Keyboard | 5 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 

@@ -1,0 +1,73 @@
+Daftar Kontak:
+- Data kontak belum tersedia!
+Menu:
+1. Tambah Kontak
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [!] Pilihan tidak dimengerti.
+
+Daftar Kontak:
+- Data kontak belum tersedia!
+Menu:
+1. Tambah Kontak
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mengubah Kontak]
+ID Kontak yang diubah (x Jika Batal) : [!] ID tidak valid!
+
+Daftar Kontak:
+- Data kontak belum tersedia!
+Menu:
+1. Tambah Kontak
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mengubah Kontak]
+ID Kontak yang diubah (x Jika Batal) : Nama Baru (Kosongkan jika tidak ingin mengubah) : Telepon Baru (Kosongkan jika tidak ingin mengubah) : Email Baru (Kosongkan jika tidak ingin mengubah) : [!] Gagal mengubah kontak dengan ID: 999.
+
+Daftar Kontak:
+- Data kontak belum tersedia!
+Menu:
+1. Tambah Kontak
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mengurutkan Kontak]
+Pilihan Pengurutan:
+1. Nama (A-Z)
+2. Nama (Z-A)
+x. Batal
+Pilih : [!] Pilihan tidak valid!
+
+Daftar Kontak:
+- Data kontak belum tersedia!
+Menu:
+1. Tambah Kontak
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menghapus Kontak]
+[ID Kontak] yang dihapus (x Jika Batal) : [!] ID tidak valid!
+
+Daftar Kontak:
+- Data kontak belum tersedia!
+Menu:
+1. Tambah Kontak
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 

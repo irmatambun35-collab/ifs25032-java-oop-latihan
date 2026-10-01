@@ -1,0 +1,61 @@
+Daftar Barang:
+- Data barang belum tersedia!
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Barang]
+Nama (x Jika Batal) : Jumlah Stok : Kategori : Berhasil menambah barang: 1 | Monitor | 3 | Elektronik
+
+Daftar Barang:
+1 | Monitor | 3 | Elektronik
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Barang]
+Nama (x Jika Batal) : Jumlah Stok : Kategori : Berhasil menambah barang: 2 | Meja | 2 | Furnitur
+
+Daftar Barang:
+1 | Monitor | 3 | Elektronik
+2 | Meja | 2 | Furnitur
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mencari Barang]
+Kata Kunci (x Jika Batal) : Hasil Pencarian: "Monitor"
+1 | Monitor | 3 | Elektronik
+
+Daftar Barang:
+1 | Monitor | 3 | Elektronik
+2 | Meja | 2 | Furnitur
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menghapus Barang]
+[ID Barang] yang dihapus (x Jika Batal) : Berhasil menghapus barang.
+
+Daftar Barang:
+2 | Meja | 2 | Furnitur
+Menu:
+1. Tambah Barang
+2. Ubah Stok
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 

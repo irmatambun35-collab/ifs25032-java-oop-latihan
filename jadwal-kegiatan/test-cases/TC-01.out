@@ -1,0 +1,35 @@
+Daftar Kegiatan:
+- Data kegiatan belum tersedia!
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Kegiatan]
+Judul (x Jika Batal) : Hari : Waktu (HH:mm) : Berhasil menambah kegiatan: 1 | Kuliah OOP | Senin | 08:00
+
+Daftar Kegiatan:
+1 | Kuliah OOP | Senin | 08:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Kegiatan]
+Judul (x Jika Batal) : Hari : Waktu (HH:mm) : Berhasil menambah kegiatan: 2 | Praktikum Lab | Rabu | 13:00
+
+Daftar Kegiatan:
+1 | Kuliah OOP | Senin | 08:00
+2 | Praktikum Lab | Rabu | 13:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 

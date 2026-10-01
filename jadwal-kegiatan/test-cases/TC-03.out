@@ -1,0 +1,61 @@
+Daftar Kegiatan:
+- Data kegiatan belum tersedia!
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Kegiatan]
+Judul (x Jika Batal) : Hari : Waktu (HH:mm) : Berhasil menambah kegiatan: 1 | Belajar Java | Selasa | 19:00
+
+Daftar Kegiatan:
+1 | Belajar Java | Selasa | 19:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menambah Kegiatan]
+Judul (x Jika Batal) : Hari : Waktu (HH:mm) : Berhasil menambah kegiatan: 2 | Belajar Algoritma | Kamis | 20:00
+
+Daftar Kegiatan:
+1 | Belajar Java | Selasa | 19:00
+2 | Belajar Algoritma | Kamis | 20:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Mencari Kegiatan]
+Kata Kunci (x Jika Batal) : Hasil Pencarian: "Java"
+1 | Belajar Java | Selasa | 19:00
+
+Daftar Kegiatan:
+1 | Belajar Java | Selasa | 19:00
+2 | Belajar Algoritma | Kamis | 20:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : [Menghapus Kegiatan]
+[ID Kegiatan] yang dihapus (x Jika Batal) : Berhasil menghapus kegiatan.
+
+Daftar Kegiatan:
+2 | Belajar Algoritma | Kamis | 20:00
+Menu:
+1. Tambah Kegiatan
+2. Ubah
+3. Cari
+4. Urutkan
+5. Hapus
+x. Keluar
+Pilih : 
